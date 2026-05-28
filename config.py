@@ -26,8 +26,8 @@ API_HASH = getenv("API_HASH")
 BOT_TOKEN = getenv("BOT_TOKEN")
 
 # Bot and owner info
-OWNER_USERNAME = getenv("OWNER_USERNAME", "SHIVANSHDEVS")
-BOT_USERNAME = getenv("BOT_USERNAME", "SapnaMusicRobot")
+OWNER_USERNAME = getenv("OWNER_USERNAME", "uk_annu)
+BOT_USERNAME = getenv("BOT_USERNAME", "annupromusic_bot)
 BOT_NAME = getenv("BOT_NAME", "SAPNA")
 ASSUSERNAME = getenv("ASSUSERNAME", "KHWAAISH_HOON")
 
@@ -36,8 +36,8 @@ MONGO_DB_URI = getenv("MONGO_DB_URI", None)
 
 # Limits and IDs
 DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 17000))
-LOGGER_ID = int(getenv("LOGGER_ID", -1002018556839))
-OWNER_ID = int(getenv("OWNER_ID", 6762113050))
+LOGGER_ID = int(getenv("LOGGER_ID", -1003902563353)
+OWNER_ID = int(getenv("OWNER_ID", 6584776359)
 
 # Heroku
 HEROKU_APP_NAME = getenv("HEROKU_APP_NAME")
