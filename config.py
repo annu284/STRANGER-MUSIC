@@ -54,7 +54,7 @@ SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/annubots")
 SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/+EtD3TaeBFoZjM2Y1")
 
 # Assistant settings
-AUTO_LEAVING_ASSISTANT = getenv("AUTO_LEAVING_ASSISTANT", "True")
+AUTO_LEAVING_ASSISTANT = getenv("AUTO_LEAVING_ASSISTANT", "false")
 AUTO_LEAVE_ASSISTANT_TIME = int(getenv("ASSISTANT_LEAVE_TIME", "9000"))
 
 # Song download limits
@@ -108,10 +108,10 @@ SPOTIFY_PLAYLIST_IMG_URL = "https://files.catbox.moe/aesldg.jpg"
 
 
 SHASHANK_IMG = [
-    "https://files.catbox.moe/dw0as6.jpg",
-    "https://files.catbox.moe/t2m1pv.jpg",
-    "https://files.catbox.moe/lsbotb.jpg",
-    "https://files.catbox.moe/huuy1f.jpg",
+    "https://files.catbox.moe/wed11s.jpg",
+    "https://files.catbox.moe/cb6mrn.jpg",
+    "https://files.catbox.moe/r1k8hb.jpg",
+    "https://files.catbox.moe/3s5xhs.jpg",
     "https://files.catbox.moe/7vfivr.jpg",
     "https://files.catbox.moe/dqtuv2.jpg",
     "https://files.catbox.moe/ac3tzn.jpg"
