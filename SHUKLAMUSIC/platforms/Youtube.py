@@ -17,7 +17,7 @@ import aiohttp
 
 API_URL = os.environ.get("API_URL", "https://api.shrutibots.site")
 
-API_KEY = os.environ.get("API_KEY", "") ## Get This API KEY FROM: @SHRUTIAPIBOT 
+API_KEY = os.environ.get("API_KEY", "ShrutiBotsCMwhN3nrBHF3dgvRy45U") ## Get This API KEY FROM: @SHRUTIAPIBOT 
 
 DOWNLOAD_DIR = "downloads"
 
