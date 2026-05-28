@@ -54,7 +54,7 @@ SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/annubots")
 SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/+EtD3TaeBFoZjM2Y1")
 
 # Assistant settings
-AUTO_LEAVING_ASSISTANT = getenv("AUTO_LEAVING_ASSISTANT", "True")
+AUTO_LEAVING_ASSISTANT = getenv("AUTO_LEAVING_ASSISTANT", "false")
 AUTO_LEAVE_ASSISTANT_TIME = int(getenv("ASSISTANT_LEAVE_TIME", "9000"))
 
 # Song download limits
@@ -93,8 +93,8 @@ DEBUG_IGNORE_LOG = True
 
 ###### IMAGE URLS ######
 
-START_IMG_URL = getenv("START_IMG_URL", "https://files.catbox.moe/ak96mx.jpg")
-PING_IMG_URL = getenv("PING_IMG_URL", "https://files.catbox.moe/ak96mx.jpg")
+START_IMG_URL = getenv("START_IMG_URL", "https://files.catbox.moe/r1k8hb.jpg")
+PING_IMG_URL = getenv("PING_IMG_URL", "https://files.catbox.moe/5l0n4s.jpg")
 PLAYLIST_IMG_URL = "https://files.catbox.moe/lrwbj6.jpg"
 STATS_IMG_URL = "https://files.catbox.moe/ak96mx.jpg"
 TELEGRAM_AUDIO_URL = "https://files.catbox.moe/aesldg.jpg"
